@@ -1,0 +1,5 @@
+.vscode
+User_Data
+venv
+chinook.db
+sendtracks.py

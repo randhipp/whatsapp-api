@@ -1,0 +1,23 @@
+{
+    "no_invoice":"OMA/202001/0001", 
+    "total_nominal":"300.000", 
+    "ongkir":"16.000", 
+    "gt":"316.000",
+    "keterangan":"Mohon Transfer ke Rek BCA 1231233.\nTerima Kasih.\nOMAPIT",
+    "barang":[
+         {
+            "id": "1",
+            "kode": "M123/C/34",
+            "qty":"5",
+            "harga":"40.000",
+            "total":"200.000"
+         },
+         {
+            "id": "2",
+            "kode": "M455/A/36",
+            "qty":"2",
+            "harga":"50.000",
+            "total":"100.000"
+         }
+    ]
+}
